@@ -1,41 +1,73 @@
-#REACTJS AND/OR REACT NATIVE ASSESSMENT #
+##### LEARNING REACT NATIVE #####
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### What is this readme for? ###
+* For any DVT Software Developer keen on learning React Native (Getting Started)
+* For DVT ReactJS or React Native employees looking at enhancing their React Native skills (Advance Concepts)
 
-### What is this repository for? ###
+### What is React Native? ###
 
-For DVT ReactJS or React Native employees to assess their technical understand of React/React Native concepts.  
+React Native is an open-source mobile application framework. It is used to develop applications for Android, iOS, Web, Windows and UWP(Universal Windows Platform). It enables developers to use React's framework along with native platform capabilities.
 
-Please note that you will be evaluated for
-* your correct use of libraries, 
-* proper code structure and cleanliness,
-* how far you were able to write your code from scratch,
-* clever use of ES6,
-* ability to make API calls,
-* adequate level of UI & UX
-* ability to use TypeScript is a plus,
-* the UI/UX of the app is up to the candidate's choice - the nicer , the better,
-* writing code in a clever way ( e.g. redundant code, state immutability, optimized function calls, etc.),
-* properly reading the requirements and produce creative products,
-* self leadership in choice and adaptation of to the tasks requested
+### Why React Native? ###
 
-### How to submit your answers ? ###
-Simply fork this repository and send the link to these email addresses : mngoetjana@jhb.dvt.co.za, mgumede@dvt.jhb.co.za ,  
+React Native is great for mobile apps. It provides a slick, smooth and responsive user interface, while significantly reducing load time. It is also much faster and cheaper to build apps in React Native as opposed to building native ones, without the need to compromise on quality and functionality.
 
-### Questions ###
 
-Please attempt as much questions as you can; while using modules such as redux, redux-thunk, react-navigation or the equivalent ReactJS modules or other modules.
+### Pro's ###
+
+* Reusable code;
+You can use one codebase for both Android and iOS.
+* Faster development;
+Since only one codebase is required to handle iOS and Android, product development is much quicker.
+* Reduced costs
+All thanks to the ability to reuse code and faster development, which directly impacts the costs.
+* Growing community;
+React Native has a large and continuously growing developer's community.
+
+### Con's ###
+
+* Native code required;
+Need for an expertise from a native developer for some platform-specific modules.
+* Lacks Performance;
+App Performance Lacks as Compared to a Pure Native App.
+* Low Security;
+Security is low because React Native is a JavaScript library and also an open source framework.
+
+### Prerequisites ###
+
+* Basic knowledge of JavaScript fundamentals.
+* Familiarity with HTML and CSS.
+* Familiarity with programming concepts like functions, objects, arrays, and classes.
+
+### Getting Started == Fundamentals ###
+
+* TypeScript; https://www.typescriptlang.org/
+* JavaScript; https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+### Beginner
+
+* React Native; https://reactnative.dev/docs/getting-started
+* React-Redux; https://www.udemy.com/course/react-native-the-practical-guide/
+
+### Test your understanding
 
 * Auto-Search App : Create a single screen app that has one text input that accepts a valid URL and then immediately loads the web-page in a webview/iframe component.
 
-* Dog API & AsyncStorage App : Create an app that has 2 screens. On screen 1 (Home) it should display images of dogs, filtered by their breeds. A user should be able to mark a dog image as a favourite . Screen two should display all the users favorite dogs' pictures.
+
+* Dog API & AsyncStorage App : Create an app that has 2 screens. On screen 1 (Home) it should display images of dogs, filtered by their breeds. A user should be able to mark a dog image as a favourite . Screen two should display all the users favourite dogs' pictures.
 [You can get creative with this one] - Use redux and sagas for this one
 
-* Wikipedia App:  Create an app that accepts keywords/texts, performs a GET request on Wikipedia and displays the results in a list just below the text input. Afterwards, when a user clicks on row, he should be navigated to a detailed screen which has a navigation bar [ with its title being the Wikipedia page ] and a webview/iframe component to load that page. Please use hooks and Context API in your solution.
 
-* AsyncStorage/LocalStorage App: Create an app that has 3 dummy screens. On screen 1, there should be a username and password field and a save button. On saving, the app stores the credential in the AsysnStorage/LocalStorage of the phone. When you quit it and open it, it should navigate immediately to screen 2. On screen 2, place a button to navigate to screen 3. We should be able to navigate to screen 2 from screen 3.
+### Advanced Concepts ###
 
-### Who do I talk to? ###
+* Typescript; https://www.udemy.com/course/understanding-typescript/
+* React + Hooks; https://www.udemy.com/share/101WbwCUAYclxbRng=/
+* Component-Reusability; https://www.udemy.com/course/react-native-advanced/
+* Unit Testing; https://www.udemy.com/course/react-testing-with-jest-and-enzyme/
 
-* Ashley , Mnotho, Marvin or Lerato 
-* Please also cc your contact person from People's Team/HR
+### Test your understanding
+
+*Wikipedia App: Create an app that accepts keywords/texts, performs a GET request on Wikipedia and displays the results in a list just below the text input. Afterwards, when a user clicks on row, he should be navigated to a detailed screen which has a navigation bar [ with its title being the Wikipedia page ] and a webview/iframe component to load that page. *Please use hooks and Context API in your solution.
+
+### Got Questions? ###
+Send your questions to either Matshwenyego Ngoetjana or Mnotho Gumede @: mngoetjana@jhb.dvt.co.za / mgumede@dvt.jhb.co.za
