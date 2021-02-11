@@ -67,7 +67,7 @@ Security is low because React Native is a JavaScript library and also an open so
 
 ### Test your understanding
 
-*Wikipedia App: Create an app that accepts keywords/texts, performs a GET request on Wikipedia and displays the results in a list just below the text input. Afterwards, when a user clicks on row, he should be navigated to a detailed screen which has a navigation bar [ with its title being the Wikipedia page ] and a webview/iframe component to load that page. *Please use hooks and Context API in your solution.
+* Wikipedia App: Create an app that accepts keywords/texts, performs a GET request on Wikipedia and displays the results in a list just below the text input. Afterwards, when a user clicks on row, he should be navigated to a detailed screen which has a navigation bar [ with its title being the Wikipedia page ] and a webview/iframe component to load that page. *Please use hooks and Context API in your solution.
 
 ### Got Questions? ###
 Send your questions to either Matshwenyego Ngoetjana or Mnotho Gumede @: mngoetjana@jhb.dvt.co.za / mgumede@dvt.jhb.co.za
