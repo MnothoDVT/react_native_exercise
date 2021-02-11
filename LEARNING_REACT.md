@@ -1,4 +1,4 @@
-#LEARNING REACT NATIVE#
+####LEARNING REACT NATIVE#####
 
 ### What is this readme for? ###
 * For any DVT Software Developer keen on learning React Native (Getting Started)
